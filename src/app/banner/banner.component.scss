@@ -1,0 +1,50 @@
+
+.img{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+   
+}
+.banner .banner1{
+   margin-top: 150px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+ .img2 img{
+     display: block;
+    margin-left: auto;
+   margin-right: auto;
+    width: 312px;
+    height: 72px;
+}
+.hello{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+input{
+    line-height: 40px;
+    font-size: 12px;
+    border-radius: 4px;
+    padding:10px;
+    width: 310px;
+    height: 40px;
+    border: none;
+}
+button{
+    width: 100px;
+    height: 40px;
+    padding: 11px 14px;
+    margin-left: 10px;
+    background: hsl(213, 48%, 54%);
+    border-radius: 4px;
+    color: #fff;
+    border: none;
+}
+.img img{
+    margin-top: 63px;
+    width:1349px;
+}
+    

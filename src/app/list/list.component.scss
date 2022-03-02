@@ -1,0 +1,43 @@
+
+.list{
+    display: flex; 
+    padding: 0.5rem;
+    border-top: 1px solid #eaecef;
+    align-items: center;
+    cursor: pointer;
+    color: #000;
+    font-size: 18px;
+    margin-left: 5rem;
+}
+.list:hover{
+    background-color: rgba(224, 220, 220, 0.966);
+}
+.list img{
+    height: 36px;
+    width: 36px;
+}
+.coin-des{
+    display: flex;
+    flex:2;
+}
+.price {
+    flex:1;
+}
+.coin-des .span1{
+    margin: auto 0;
+}
+.coin-des .span1 .span2{
+    color: #848e9c;
+}
+
+.change{
+    flex:1;
+}
+.market{
+    flex:1;
+    
+}
+.haha{
+    color: green;
+}
+
